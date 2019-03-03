@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://i.imgur.com/FqrwXac.jpg) bottom center;
   background-size: cover;
 }
 
@@ -30,6 +30,7 @@ body,html {
   color: white;
   background: rgba(0,0,0,0.4);
   text-shadow: 0 0 .5rem black;
+  cursor: pointer;
 }
 
 .playing {
